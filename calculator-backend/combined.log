@@ -1,0 +1,26 @@
+{"level":"info","message":{"__v":0,"_id":"66a89c52e85c8c8f3f4d6cb0","expression":"5*9-3","result":"42","timestamp":"2024-07-30T07:54:58.360Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8b14f0c9d038448395903","expression":"9//5","result":"Error","timestamp":"2024-07-30T09:24:31.251Z","valid":false},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8b1ab36ccfcbd8f08d4a0","expression":"8*56","result":"448","timestamp":"2024-07-30T09:26:03.918Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8b2d036ccfcbd8f08d4b4","expression":"7*7","result":"49","timestamp":"2024-07-30T09:30:56.595Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8b2da36ccfcbd8f08d4b8","expression":"5-66","result":"-61","timestamp":"2024-07-30T09:31:06.327Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8b2e736ccfcbd8f08d4bc","expression":"88/5","result":"17.6","timestamp":"2024-07-30T09:31:19.884Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8b7d795f9c3afb2d30e40","expression":"8*9","result":"72","timestamp":"2024-07-30T09:52:23.161Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8c0b5b93f69629b4f5a4e","expression":"7*9","result":"63","timestamp":"2024-07-30T10:30:13.277Z","valid":true},"service":"user-service"}
+{"level":"info","message":"Operation: 7*9, Result: 63","service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8c231902c06b6d8988e3a","expression":"11*5","result":"55","timestamp":"2024-07-30T10:36:33.788Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8c782f1b4da3a03c031c7","expression":"5*9","result":"45","timestamp":"2024-07-30T10:59:14.141Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8c793f1b4da3a03c031cb","expression":"7+56","result":"63","timestamp":"2024-07-30T10:59:31.599Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8caa2f1b4da3a03c031e7","expression":"8*8","result":"64","timestamp":"2024-07-30T11:12:34.550Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8caadf1b4da3a03c031eb","expression":"6-3","result":"3","timestamp":"2024-07-30T11:12:45.005Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cac8f1b4da3a03c031ef","expression":"386+58","result":"444","timestamp":"2024-07-30T11:13:12.330Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cad6f1b4da3a03c031f3","expression":"89*63","result":"5607","timestamp":"2024-07-30T11:13:26.725Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cae3f1b4da3a03c031f7","expression":"8*/2","result":"Error","timestamp":"2024-07-30T11:13:39.179Z","valid":false},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8caf0f1b4da3a03c031fb","expression":"45-63","result":"-18","timestamp":"2024-07-30T11:13:52.293Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8caf9f1b4da3a03c031ff","expression":"88/25","result":"3.52","timestamp":"2024-07-30T11:14:01.937Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cb10f1b4da3a03c03203","expression":"200+958","result":"1158","timestamp":"2024-07-30T11:14:24.687Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cb1df1b4da3a03c03207","expression":"72*6","result":"432","timestamp":"2024-07-30T11:14:37.602Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cb27f1b4da3a03c0320b","expression":"44-6","result":"38","timestamp":"2024-07-30T11:14:47.153Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8cb30f1b4da3a03c0320f","expression":"38*3","result":"114","timestamp":"2024-07-30T11:14:56.571Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8d1eaf1b4da3a03c03213","expression":"52*8","result":"416","timestamp":"2024-07-30T11:43:38.918Z","valid":true},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8d200f1b4da3a03c03217","expression":"7*/2","result":"Error","timestamp":"2024-07-30T11:44:00.609Z","valid":false},"service":"user-service"}
+{"level":"info","message":{"__v":0,"_id":"66a8d24ff1b4da3a03c0321b","expression":"4*6","result":"24","timestamp":"2024-07-30T11:45:19.729Z","valid":true},"service":"user-service"}
